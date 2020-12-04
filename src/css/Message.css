@@ -1,0 +1,39 @@
+.msg {
+  width: fit-content;
+  padding: 10px;
+  margin: -70px 0px -70px 0px;
+}
+.message__user {
+  margin-left: auto;
+
+  text-align: right !important;
+}
+.message__guestCard {
+  background-color: #e9e9e9 !important;
+}
+
+.message__userCard {
+  background-color: #0b81ff !important;
+}
+
+.msg__h6__bottom__left {
+  position: relative;
+  text-align: right;
+  top: -20px;
+}
+.msg__h6__bottom__right {
+  position: relative;
+  text-align: left;
+  top: -20px;
+}
+.msg__h6__top__left {
+  position: relative;
+  text-align: left;
+  top: 20px;
+}
+.msg__h6__top__right {
+  position: relative;
+  text-align: right;
+  top: 20px;
+  padding-right: 10px;
+}
